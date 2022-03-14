@@ -5,5 +5,5 @@ Playing with Orchard Core
 
  - Full CMS example https://orchard-core-full-cms.herokuapp.com/
  - Decoupled CMS example
- - Headless CMS example
+ - Headless CMS example https://orchard-core-headless-cms.herokuapp.com/
  
