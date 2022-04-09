@@ -15,3 +15,4 @@ OpenID Connect Overview
 
 OrchardCore and OpenID Instructional
 - https://www.youtube.com/watch?v=-MCjLcu-eOE&list=PLNthxvXflUl-OdKSEOpBDzVPtE5-FdI3Z&index=1
+- Notes document: https://docs.google.com/document/d/1GeFTGlgWL0kv6yWFtcpVDTPgyQPdQJr1obRkS5cXQYE/edit?usp=sharing
