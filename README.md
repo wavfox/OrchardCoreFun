@@ -9,4 +9,4 @@ Playing with Orchard Core
  
 OpenID Connect Overview 
 
-- https://developer.okta.com/docs/concepts/oauth-openid/
+- https://openid.net/connect/
