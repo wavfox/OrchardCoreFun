@@ -7,3 +7,6 @@ Playing with Orchard Core
  - Decoupled CMS example
  - Headless CMS example https://wfsp.dev
  
+OpenID Connect Overview 
+
+- https://developer.okta.com/docs/concepts/oauth-openid/
