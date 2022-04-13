@@ -3,9 +3,9 @@ Fun Projects with Orchard Core CMS
 
 Playing with Orchard Core
 
- - Full CMS example https://orchard-core-full-cms.herokuapp.com/
+ - Full CMS example
  - Decoupled CMS example
- - Headless CMS example https://wfsp.dev
+ - Headless CMS example
  
 OpenID Connect Overview 
 
